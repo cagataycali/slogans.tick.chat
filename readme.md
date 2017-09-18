@@ -1,6 +1,6 @@
-# Tick.Chat's Random Slogan Generator
+**Tick.Chat's Random Slogan Generator**
 
-**Usage**
+*Usage*
 
 ```html
 <!-- ... -->
@@ -11,9 +11,9 @@
     randomSlogan()
   </script>
 </body>
-```html
+```
 
-**Generate for your words**
+*Generate for your words*
 
 [Generate](https://www.shopify.com/tools/slogan-maker/)
 
