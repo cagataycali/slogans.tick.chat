@@ -1,0 +1,9 @@
+{
+  "name": "slogans-tick-chat",
+  "version": "1.0.0",
+  "description": "Cool Tick.chat slogans in your app.",
+  "main": "index.js",
+  "repository": "git@github.com:cagataycali/slogans.tick.chat.git",
+  "author": "cagataycali <cagataycali@icloud.com>",
+  "license": "MIT"
+}
